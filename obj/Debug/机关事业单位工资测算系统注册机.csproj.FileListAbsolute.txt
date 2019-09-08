@@ -1,0 +1,9 @@
+C:\Users\muruoxi\Desktop\机关事业单位工资测算系统注册机\bin\Debug\机关事业单位工资测算系统注册机.exe
+C:\Users\muruoxi\Desktop\机关事业单位工资测算系统注册机\bin\Debug\机关事业单位工资测算系统注册机.pdb
+C:\Users\muruoxi\Desktop\机关事业单位工资测算系统注册机\obj\Debug\机关事业单位工资测算系统注册机.csprojAssemblyReference.cache
+C:\Users\muruoxi\Desktop\机关事业单位工资测算系统注册机\obj\Debug\机关事业单位工资测算系统注册机.Form1.resources
+C:\Users\muruoxi\Desktop\机关事业单位工资测算系统注册机\obj\Debug\机关事业单位工资测算系统注册机.Properties.Resources.resources
+C:\Users\muruoxi\Desktop\机关事业单位工资测算系统注册机\obj\Debug\机关事业单位工资测算系统注册机.csproj.GenerateResource.cache
+C:\Users\muruoxi\Desktop\机关事业单位工资测算系统注册机\obj\Debug\机关事业单位工资测算系统注册机.csproj.CoreCompileInputs.cache
+C:\Users\muruoxi\Desktop\机关事业单位工资测算系统注册机\obj\Debug\机关事业单位工资测算系统注册机.exe
+C:\Users\muruoxi\Desktop\机关事业单位工资测算系统注册机\obj\Debug\机关事业单位工资测算系统注册机.pdb
